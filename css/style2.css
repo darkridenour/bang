@@ -13,8 +13,9 @@ h1{
   font-size: 100px;
 }
 h2{
+  color: white;
   margin-top: 50px;
-  text-align:center;
+  text-align:left;
 }
 ul{
   text-align: center;
