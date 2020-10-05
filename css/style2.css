@@ -1,0 +1,47 @@
+html{
+  background-color: black;
+}
+body{
+	padding:0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	font-family: times, serif;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+}
+h2{
+  margin-top: 50px;
+  text-align:center;
+}
+ul{
+  text-align: center;
+}
+li{
+  	display: inline;
+  	font-size: 15px;
+  	font-family: Helvetica;
+  	padding-right: 32px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color:red;
+}
+a:visted{
+	color:black;
+}
+img{
+  display: block;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%
+}
+audio{
+    ;
+}

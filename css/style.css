@@ -1,0 +1,56 @@
+
+html{
+  background: url(../images/1bangs.gif) top left no-repeat, url(../images/2bangz.gif) top center no-repeat, url(../images/3bangz.gif) top right no-repeat,
+  url(../images/4bangs.gif) center left no-repeat, url(../images/5bangz.gif) center center no-repeat, url(../images/6bangz.gif) center right no-repeat,
+  url(../images/7bangz.gif) bottom left no-repeat, url(../images/8bangz.gif) bottom center no-repeat, url(../images/9bangz.gif) bottom right no-repeat;
+  background-size: 20%;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: ivory;
+
+}
+body{
+	padding:0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	font-family: times, serif;
+}
+
+h1{
+  text-align: center;
+  font-size: 100px;
+}
+h2{
+  margin-top: 50px;
+  text-align:center;
+}
+ul{
+  text-align: center;
+}
+li{
+  	display: inline;
+  	font-size: 15px;
+  	font-family: Helvetica;
+  	padding-right: 32px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color:red;
+}
+a:visted{
+	color:black;
+}
+img{
+  display: block;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%
+}
+#mainContainer{
+  width: 100%
+  height:auto;
+  position: relative;
+}
